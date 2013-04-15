@@ -8,10 +8,6 @@ import android.os.Bundle;
 import android.util.Base64;
 import android.util.Log;
 import com.example.FoodTracker.R;
-import com.facebook.LoggingBehavior;
-import com.facebook.Session;
-import com.facebook.SessionState;
-import com.facebook.Settings;
 
 
 
